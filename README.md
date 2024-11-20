@@ -23,4 +23,4 @@ Pinto Exchange is a fork of [Basin](https://github.com/BeanstalkFarms/Basin), a 
 
 ## License
 
-[MIT](https://github.com/pintomoney/exchange/blob/main/LICENSE.txt)
+[MIT](https://github.com/pinto-org/exchange/blob/master/LICENSE.txt)
